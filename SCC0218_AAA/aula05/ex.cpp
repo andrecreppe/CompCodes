@@ -68,7 +68,7 @@ int main() {
     }
 
     int64_t ans = kruskalMST(n);
-    printf("%d", ans);
+    printf("%lld", ans);
 
     return 0;
 }
