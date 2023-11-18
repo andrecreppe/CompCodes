@@ -5,10 +5,10 @@ using namespace std;
 typedef long long ll;
 
 ll game(ll n, ll k) {
-    int count = 0;
+    ll count = 0;
 
     while(n > 0) {
-        int rem = n % k;
+        ll rem = n % k;
         if(rem == 0) {
             n /= k;
             count++;
