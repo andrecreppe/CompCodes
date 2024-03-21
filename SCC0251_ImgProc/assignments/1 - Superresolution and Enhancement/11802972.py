@@ -116,8 +116,8 @@ def rmse(h, h_hat):
 # ==================== PROBLEM LOADING ====================
 
 # >> Fixed Testing Data
-# low_basename = './test_cases/04_low'
-# high_filename = './test_cases/04_high.png'
+# low_basename = './images/04_low'
+# high_filename = './images/04_high.png'
 # method = 2
 # gamma = 1.0
 
